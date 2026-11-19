@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local scores created when someone plays
+scores.json
+
+# Editors and OS files
+.idea/
+.vscode/
+*.swp
+.DS_Store
